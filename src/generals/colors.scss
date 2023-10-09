@@ -1,0 +1,303 @@
+$grey: #e6e6e6;
+$greyHover: #f2f2f2;
+$grey300: #cccccc;
+$grey200: #a6a6a6;
+$grey100: #666666;
+
+$purple: #970ff2;
+$purpleHover: #9f0fff;
+$purple300: #870dd9;
+$purple200: #6f0bb3;
+$purple100: #480773;
+
+$blue: #0597f2;
+$blueHover: #059fff;
+$blue300: #0487d9;
+$blue200: #046fb3;
+$blue100: #024873;
+
+$green: #49d907;
+$greenHover: #4de607;
+$green300: #40bf06;
+$green200: #349905;
+$green100: #1e5903;
+
+$yellow: #eaf205;
+$yellowHover: #f7ff05;
+$yellow300: #d2d904;
+$yellow200: #adb304;
+$yellow100: #6f7302;
+
+$red: #f24607;
+$redHover: #ff4a08;
+$red300: #d93f07;
+$red200: #b33405;
+$red100: #732103;
+
+$orange: #f29013;
+$orangeHover: #ff9914;
+$orange300: #d98211;
+$orange200: #b36b0e;
+$orange100: #734509;
+
+$turquoise: #11f2d0;
+$turquoiseHover: #12ffdb;
+$turquoise300: #0fd9bb;
+$turquoise200: #0cb39a;
+$turquoise100: #087363;
+
+.color-grey {
+  color: $grey;
+}
+.color-greyHover:hover {
+  color: $greyHover;
+}
+.color-grey300 {
+  color: $grey300;
+}
+.color-grey200 {
+  color: $grey200;
+}
+.color-grey100 {
+  color: $grey100;
+}
+
+.color-purple {
+  color: $purple;
+}
+.color-purpleHover:hover {
+  color: $purpleHover;
+}
+.color-purple300 {
+  color: $purple300;
+}
+.color-purple200 {
+  color: $purple200;
+}
+.color-purple100 {
+  color: $purple100;
+}
+
+.color-blue {
+  color: $blue;
+}
+.color-blueHover:hover {
+  color: $blueHover;
+}
+.color-blue300 {
+  color: $blue300;
+}
+.color-blue200 {
+  color: $blue200;
+}
+.color-blue100 {
+  color: $blue100;
+}
+
+.color-green {
+  color: $green;
+}
+.color-greenHover:hover {
+  color: $greenHover;
+}
+.color-green300 {
+  color: $green300;
+}
+.color-green200 {
+  color: $green200;
+}
+.color-green100 {
+  color: $green100;
+}
+
+.color-yellow {
+  color: $yellow;
+}
+.color-yellowHover:hover {
+  color: $yellowHover;
+}
+.color-yellow300 {
+  color: $yellow300;
+}
+.color-yellow200 {
+  color: $yellow200;
+}
+.color-yellow100 {
+  color: $yellow100;
+}
+
+.color-red {
+  color: $red;
+}
+.color-redHover:hover {
+  color: $redHover;
+}
+.color-red300 {
+  color: $red300;
+}
+.color-red200 {
+  color: $red200;
+}
+.color-red100 {
+  color: $red100;
+}
+
+.color-orange {
+  color: $orange;
+}
+.color-orangeHover:hover {
+  color: $orangeHover;
+}
+.color-orange300 {
+  color: $orange300;
+}
+.color-orange200 {
+  color: $orange200;
+}
+.color-orange100 {
+  color: $orange100;
+}
+
+.color-turquoise {
+  color: $turquoise;
+}
+.color-turquoiseHover:hover {
+  color: $turquoiseHover;
+}
+.color-turquoise300 {
+  color: $turquoise300;
+}
+.color-turquoise200 {
+  color: $turquoise200;
+}
+.color-turquoise100 {
+  color: $turquoise100;
+}
+
+.bgc-grey {
+  background-color: $grey;
+}
+.bgc-greyHover:hover {
+  background-color: $greyHover;
+}
+.bgc-grey300 {
+  background-color: $grey300;
+}
+.bgc-grey200 {
+  background-color: $grey200;
+}
+.bgc-grey100 {
+  background-color: $grey100;
+}
+
+.bgc-purple {
+  background-color: $purple;
+}
+.bgc-purpleHover:hover {
+  background-color: $purpleHover;
+}
+.bgc-purple300 {
+  background-color: $purple300;
+}
+.bgc-purple200 {
+  background-color: $purple200;
+}
+.bgc-purple100 {
+  background-color: $purple100;
+}
+
+.bgc-blue {
+  background-color: $blue;
+}
+.bgc-blueHover:hover {
+  background-color: $blueHover;
+}
+.bgc-blue300 {
+  background-color: $blue300;
+}
+.bgc-blue200 {
+  background-color: $blue200;
+}
+.bgc-blue100 {
+  background-color: $blue100;
+}
+
+.bgc-green {
+  background-color: $green;
+}
+.bgc-greenHover:hover {
+  background-color: $greenHover;
+}
+.bgc-green300 {
+  background-color: $green300;
+}
+.bgc-green200 {
+  background-color: $green200;
+}
+.bgc-green100 {
+  background-color: $green100;
+}
+
+.bgc-yellow {
+  background-color: $yellow;
+}
+.bgc-yellowHover:hover {
+  background-color: $yellowHover;
+}
+.bgc-yellow300 {
+  background-color: $yellow300;
+}
+.bgc-yellow200 {
+  background-color: $yellow200;
+}
+.bgc-yellow100 {
+  background-color: $yellow100;
+}
+
+.bgc-red {
+  background-color: $red;
+}
+.bgc-redHover:hover {
+  background-color: $redHover;
+}
+.bgc-red300 {
+  background-color: $red300;
+}
+.bgc-red200 {
+  background-color: $red200;
+}
+.bgc-red100 {
+  background-color: $red100;
+}
+
+.bgc-orange {
+  background-color: $orange;
+}
+.bgc-orangeHover:hover {
+  background-color: $orangeHover;
+}
+.bgc-orange300 {
+  background-color: $orange300;
+}
+.bgc-orange200 {
+  background-color: $orange200;
+}
+.bgc-orange100 {
+  background-color: $orange100;
+}
+
+.bgc-turquoise {
+  background-color: $turquoise;
+}
+.bgc-turquoiseHover:hover {
+  background-color: $turquoiseHover;
+}
+.bgc-turquoise300 {
+  background-color: $turquoise300;
+}
+.bgc-turquoise200 {
+  background-color: $turquoise200;
+}
+.bgc-turquoise100 {
+  background-color: $turquoise100;
+}
